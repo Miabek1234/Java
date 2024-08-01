@@ -1,2 +1,1 @@
-# Java
-For academic purpose 
+
